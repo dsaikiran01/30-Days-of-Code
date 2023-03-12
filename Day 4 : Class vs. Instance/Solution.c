@@ -1,0 +1,4 @@
+/*
+As C is not a Object Oriented Programming Language.
+Classes and Instances cannot be developed in C.
+*/
