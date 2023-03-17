@@ -9,7 +9,6 @@ if __name__ == '__main__' :
     while True:
         try:
             search = input()
-            got = 0
             if search in phonebook:
                 print(search + '=' + phonebook[search])
             else:
