@@ -34,5 +34,6 @@ public class Solution
                 System.out.println(searchName + '=' + phoneBook.get(searchName));
             }
         }
+        scan.close();
     }
 }
