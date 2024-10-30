@@ -20,7 +20,6 @@ function readLine(): string {
 }
 
 function main() {
-    // Enter your code here
     inputString = readLine();
     console.log("Hello, World.\n" + inputString);
 }

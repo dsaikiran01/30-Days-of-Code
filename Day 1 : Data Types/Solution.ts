@@ -1,5 +1,4 @@
 function main() {
-    // Enter your code here
     const i: number = 4;
     const d: number = 4.0;
     const s: string = "HackerRank ";

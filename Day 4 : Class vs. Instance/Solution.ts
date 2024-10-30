@@ -1,4 +1,3 @@
-
 class Person {
     age: number
     constructor(initialAge: number) {
@@ -23,7 +22,6 @@ class Person {
             console.log("You are old.");
         }
     }
-
 }
 
 function main() {

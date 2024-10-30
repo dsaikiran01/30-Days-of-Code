@@ -1,5 +1,4 @@
 function solve(meal_cost: number, tip_percent: number, tax_percent: number): void {
-    // Write your code here
     const tip: number = (tip_percent / 100) * meal_cost;
     const tax: number = (tax_percent / 100) * meal_cost;
     const totalCost: number = tip + tax + meal_cost;

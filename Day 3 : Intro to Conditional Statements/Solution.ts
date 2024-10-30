@@ -1,6 +1,6 @@
 function main() {
     const N: number = parseInt(readLine().trim(), 10);
-
+    
     if (N % 2 != 0) {
         console.log("Weird");
     } else if (N % 2 == 0 && N >= 2 && N <= 5) {
